@@ -1,0 +1,5 @@
+package com.rohit.microservice.limitsservice;
+
+public class LimitsConfigurationController {
+
+}
